@@ -1,0 +1,15 @@
+Cooler Master MasterKeys Pro M White firmware patch
+
+Patch from Igor Calabria:
+https://github.com/pok3r-custom/pok3rtool/issues/6#issuecomment-592815597
+
+FW offset 0x3200
+
+    6388: ff 28           cmp        r0,#0xff
+    638a: 05 d1           bne        0x00006398
+    638c: 68 68           ldr        r0,[r5,#0x4]
+    638e: 3c 21           movs       r1,#0x3c
+    6390: 30 e0           b          0x000063f4
+    6392: 00 bf           nop
+    6394: 00 bf           nop
+    6396: 00 bf           nop
