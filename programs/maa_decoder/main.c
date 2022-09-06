@@ -14,8 +14,9 @@ uint8_t scratch_buffer[8192];
 
 uint32_t maav101_crc32s[] = {
     0x5018a455, // Pro S RGB 1.2.2
+    0xde4eb3ee, // Pro S RGB 1.2.1
     0xa3606ef9, // Pro L RGB 1.2.2
-    0xde4eb3ee  // Pro S RGB 1.2.1
+    0x000c7856  // Pro L RGB 1.2.1
 };
 
 uint32_t reverse_u32(uint32_t x) {
