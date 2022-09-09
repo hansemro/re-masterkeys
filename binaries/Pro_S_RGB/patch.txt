@@ -3,21 +3,12 @@ Cooler Master MasterKeys Pro S RGB firmware patch
 Patch based off of Igor Calabria's patch for Pro M White:
 https://github.com/pok3r-custom/pok3rtool/issues/6#issuecomment-592815597
 
-FW offset 0x3400 (?)
+FW offset 0x3400
 
     67fa: ff 28           cmp        r0,#0xff
-    67fc: 0c d1           bne        0x00006818
-    67fe: 68 68           ldr        r0,[r5,#0x4]
+    67fc: 04 d1           bne        0x00006808
+    67fe: 60 68           ldr        r0,[r4,#0x4]
     6800: 3c 21           movs       r1,#0x3c
     6802: 31 e0           b          0x00006868
     6804: 00 bf           nop
     6806: 00 bf           nop
-    6808: 00 bf           nop
-    680a: 00 bf           nop
-    680c: 00 bf           nop
-    680e: 00 bf           nop
-    6810: 00 bf           nop
-    6812: 00 bf           nop
-    6814: 00 bf           nop
-    6816: 00 bf           nop
-
