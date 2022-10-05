@@ -1903,7 +1903,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 956a7c92-6d87-441d-994b-2ffd48a50703)
   )
-  (text "A" (at 269.24 194.31 0)
+  (text "B" (at 269.24 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 98557293-7a05-4a92-b77b-416bf78ade97)
   )

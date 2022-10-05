@@ -434,6 +434,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 87f0e992-cabc-4f55-b58a-6a8633d4fff2)
   )
+  (text "B" (at 269.24 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 94929f7b-23fd-4edc-9b59-094122391eae)
+  )
 
   (hierarchical_label "A2" (shape output) (at 160.02 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left))
