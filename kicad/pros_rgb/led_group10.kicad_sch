@@ -1985,7 +1985,7 @@
     (uuid fefae9a7-d156-4097-a44d-7fda62dd2c1b)
   )
 
-  (text "LD82\nLftCtrl" (at 106.68 156.21 0)
+  (text "LD82\nRgtCtrl" (at 106.68 156.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0140ae17-210d-4f94-80ff-4360d6a44d6d)
   )
@@ -2157,7 +2157,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 84c350f9-855f-40b6-a8e1-344c4c54e367)
   )
-  (text "LD9\nF7" (at 157.48 29.21 0)
+  (text "LD9\nF8" (at 157.48 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 863ceb59-2b57-4e59-87fa-18abf2e91d47)
   )

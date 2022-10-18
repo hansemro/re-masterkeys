@@ -90,7 +90,7 @@
         (number "26" (effects (font (size 1.27 1.27))))
       )
       (pin bidirectional line (at 6.35 -27.94 90) (length 2.54)
-        (name "PD15" (effects (font (size 1.27 1.27))))
+        (name "PB15" (effects (font (size 1.27 1.27))))
         (number "27" (effects (font (size 1.27 1.27))))
       )
       (pin bidirectional line (at 8.89 -27.94 90) (length 2.54)

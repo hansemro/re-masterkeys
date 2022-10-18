@@ -2141,7 +2141,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d3204201-69bb-4cf8-9f00-2c75675578d9)
   )
-  (text "LD82\nLftCtrl" (at 106.68 156.21 0)
+  (text "LD82\nRgtCtrl" (at 106.68 156.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d748acfb-39db-4307-a908-73ad7be41537)
   )

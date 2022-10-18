@@ -2162,7 +2162,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9d8f913b-855e-4c17-9cb3-c6ad8b3bb905)
   )
-  (text "LD9\nF7" (at 157.48 29.21 0)
+  (text "LD9\nF8" (at 157.48 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a0b052bd-cfd0-459d-ae93-16e5807953cf)
   )
