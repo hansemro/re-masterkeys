@@ -428,22 +428,6 @@
       "LED Power Switches"
     ],
     [
-      "567256d3-fbc2-4739-8656-5ab26e92fb95",
-      "LED Group 13"
-    ],
-    [
-      "4ef0b5ec-c646-437f-ac15-2cf15df1209d",
-      "LED Group 14"
-    ],
-    [
-      "c604bcc8-5e2f-4cc6-99f3-1a22b0b14fba",
-      "LED Group 15"
-    ],
-    [
-      "e630c3ce-1a27-4929-8db1-c2130992cf0c",
-      "LED Group 9"
-    ],
-    [
       "fc064c46-a85b-4740-b4b2-f6e66f67579b",
       "LED Group 1"
     ],
@@ -476,28 +460,28 @@
       "LED Group 8"
     ],
     [
+      "e630c3ce-1a27-4929-8db1-c2130992cf0c",
+      "LED Group 9"
+    ],
+    [
       "f16b6e61-8065-411e-bd1d-964963795360",
       "LED Group 12"
     ],
     [
+      "567256d3-fbc2-4739-8656-5ab26e92fb95",
+      "LED Group 13"
+    ],
+    [
+      "4ef0b5ec-c646-437f-ac15-2cf15df1209d",
+      "LED Group 14"
+    ],
+    [
+      "c604bcc8-5e2f-4cc6-99f3-1a22b0b14fba",
+      "LED Group 15"
+    ],
+    [
       "b186622e-cb46-4d63-995a-d55c620be511",
       "Key Switches"
-    ],
-    [
-      "7e0941a9-2f03-4d72-838f-d81685549caa",
-      "Key Group 13"
-    ],
-    [
-      "094f4ca9-3e32-43fd-be71-d105437d4f78",
-      "Key Group 14"
-    ],
-    [
-      "e46b589e-8971-4812-acba-9fd8e799f2f7",
-      "Key Group 15"
-    ],
-    [
-      "8b14e264-39f8-48b6-a97e-83ac6945e0f3",
-      "Key Group 9"
     ],
     [
       "c50f773b-5e9a-438d-a674-d082ee792d14",
@@ -532,8 +516,24 @@
       "Key Group 8"
     ],
     [
+      "8b14e264-39f8-48b6-a97e-83ac6945e0f3",
+      "Key Group 9"
+    ],
+    [
       "ffad4ffe-b9de-4472-bfab-6a93a8fa10a2",
       "Key Group 12"
+    ],
+    [
+      "7e0941a9-2f03-4d72-838f-d81685549caa",
+      "Key Group 13"
+    ],
+    [
+      "094f4ca9-3e32-43fd-be71-d105437d4f78",
+      "Key Group 14"
+    ],
+    [
+      "e46b589e-8971-4812-acba-9fd8e799f2f7",
+      "Key Group 15"
     ]
   ],
   "text_variables": {}
